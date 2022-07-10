@@ -1,0 +1,16 @@
+.searchBox {
+  display: flex;
+  justify-content: center;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+.cardDetails {
+  display: flex;
+  justify-content: center;
+}
+
+.typography {
+  display: flex;
+  flex-direction: row;
+}
